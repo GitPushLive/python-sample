@@ -1,6 +1,10 @@
-# Simple Flask Site (Python)
+# Python Sample 
 
-Test by running below in this directory
+## Simple Flask Site (Python)
+
+You can test this build by doing the following, or following the tutorial at
+
+https://www.gitpushlive.com/blog/how-to-deploy-a-python-app-to-production-with-git/
 
 ```
 python3 -m venv .venv
